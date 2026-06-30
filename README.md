@@ -84,8 +84,6 @@ Technologies Used
 * Seaborn
 * Scikit-learn
 
-⸻
-
 Installation
 
 Install the required libraries using pip:
